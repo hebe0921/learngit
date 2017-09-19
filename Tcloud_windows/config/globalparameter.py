@@ -7,9 +7,9 @@ import time
 配置全局参数
 '''
 # 项目的绝对路径（因为 windows执行时需要绝对路径才能执行通过）
-# project_path = "F:\\Tcloud"
+# project_path = "D:\\temp\\workspace\\selenium\\Tcloud_windows"
 # 获取项目路径
-project_path = "F:\\Tcloud"
+project_path = "D:\\temp\\workspace\\selenium\\Tcloud_windows"
 print project_path
 # 测试用例代码存放路径（用于构建suite,注意该文件夹下的文件都应该以test开头命名）
 test_case_path = project_path+"\\src\\test_case"
